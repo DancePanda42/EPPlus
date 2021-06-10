@@ -1,3 +1,5 @@
+My personal fork to further develop this project for my own needs.
+
 # EPPlus
 **This repository has moved to https://github.com/EPPlusSoftware/EPPlus.** 
 
